@@ -1,4 +1,4 @@
-# Part Number: EA16Z43A - SAMA7G54 SOM EA Bundle
+# EA16Z43A - SAMA7G54 SOM EA Bundle
 Early Access repository for the SAMA7G54 System-On-Module products
 
 The EA16Z43A is a bundle of 3 pre-production Microchip SAMA7G54 System-On-Module products.  
