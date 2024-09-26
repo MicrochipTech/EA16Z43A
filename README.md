@@ -11,6 +11,11 @@ The SAMA7G54 SOM family is supported by a free Linux® distribution and bare met
 
 Order in Microchip Direct: https://www.microchipdirect.com/dev-tools/EA16Z43A 
 
+## Assembly Limitations
+It is not recommended to use industrial automated reflow process with oven to solder the product on the mother board, as the process might impact the System-On-Module reliability.
+
+Work Around: Solder the System-On-Module on the mother board manually.
+
 ## Collaterals
 * Hardware
   * SOM Hardware Design Files are available upon request through a licence agreement. Please contact your local [Microchip Sales or Sales representative](https://www.microchip.com/en-us/about/global-sales-and-distribution) for more information
