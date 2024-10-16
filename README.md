@@ -18,7 +18,7 @@ Work Around: Solder the System-On-Module on the mother board manually.
 
 ## Collaterals
 * Hardware
-  * SOM Hardware Design Files can be requested by contacting your local [Microchip Sales or Sales representative](https://www.microchip.com/en-us/about/global-sales-and-distribution) for more information
+  * SOM Hardware Design Files can be requested by contacting your local [Microchip Sales or Sales representative](https://www.microchip.com/en-us/about/global-sales-and-distribution)
 * Documentation
   * [SAMA7G54 SOM Series Preliminary Data Sheet](Documentation/)
   * [System-On-Module (SOM) Assembly and Storage Guidelines](https://ww1.microchip.com/downloads/aemDocuments/documents/MPU32/ApplicationNotes/ApplicationNotes/System-On-Module-SOM-Assembly-and-Storage-Guidelines-DS00005249.pdf)
