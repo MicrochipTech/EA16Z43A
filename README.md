@@ -1,5 +1,5 @@
-# EA16Z43A - SAMA7G54 SOM EA Bundle
-Early Access repository for the SAMA7G54 System-On-Module products
+# SAMA7G54 System-On-Modules Series
+## Early Access Repository
 
 The EA16Z43A is a bundle of 3 pre-production Microchip SAMA7G54 System-On-Module products.  
 These are small single-sided MPU SOMs based on a System-In-Package (SIP) Arm® Cortex®-A7 CPU-based embedded microprocessor with 2-Gbit DDR3L SDRAM integrated running up to 1 GHz.
