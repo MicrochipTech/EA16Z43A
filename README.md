@@ -5,6 +5,13 @@ The SAMA7G54 SOM Series is built on a common set of proven Microchip components 
 The SOM embeds a SAMA7G5 Series SiP microprocessor with up to 2-Gbit DDR3L SDRAM, up to 4-Gbit NAND Flash memory, a 64-Mbit serial Quad I/O Flash memory and a dedicated Power Management Unit.
 The SAMA7G54 SOM Series also limits design rules of the main application board, reducing overall PCB complexity and cost. The SAMA7G54 SOM Series is supported by a free Linux® distribution and bare metal C examples. 
 
+For more information about the SAMA7G54 MPU, or the associated SIPs and SOM referenced above, please visit the respective product page on Microchip.com:
+* SoC
+  * https://www.microchip.com/en-us/product/SAMA7G54
+* SiP
+  * https://www.microchip.com/en-us/product/SAMA7G54D1G
+  * https://www.microchip.com/en-us/product/SAMA7G54D2G
+ 
 <p align="center"><img src="SAMA7G54-SOM.jpg" /></p>
 
 ## EA16Z43A - SAMA7G54 SOM EA Bundle
