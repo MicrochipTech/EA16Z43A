@@ -16,7 +16,7 @@ For more information about the SAMA7G54 MPU, or the associated SIPs referenced a
 
 ## EA16Z43A - SAMA7G54 SOM EA Bundle
 The EA16Z43A is a bundle of 3 pre-production Microchip SAMA7G54 System-On-Module products.  
-These are small single-sided MPU SOMs based on a System-In-Package (SIP) Arm® Cortex®-A7 CPU-based embedded microprocessor with 2-Gbit DDR3L SDRAM integrated running up to 1 GHz.
+These are small double-sided MPU SOMs based on a System-In-Package (SIP) Arm® Cortex®-A7 CPU-based embedded microprocessor with 2-Gbit DDR3L SDRAM integrated running up to 1 GHz.
 
 Order in Microchip Direct: https://www.microchipdirect.com/dev-tools/EA16Z43A 
 
