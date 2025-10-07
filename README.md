@@ -16,7 +16,7 @@ For more information about the SAMA7G54 MPU, or the associated SIPs referenced a
   * SAMA7G54D1GN0 1Gb DDR3L / No Nand: Early Adopter (EA)
   * SAMA7G54D1GN2 1Gb DDR3L / 2Gb Nand: Early Adopter (EA)
   * SAMA7G54D2GN4 2Gb DDR3L / 4Gb Nand: Early Adopter (EA)
-  * SAMA7G54D4GN8 4Gb DDR3L / 8Gb Nand: Coming Soon
+  * SAMA7G54D4GN8 4Gb DDR3L / 8Gb Nand: Early Adopter (EA)
  
 <p align="center"><img src="SAMA7G54-SOM.jpg" /></p>
 
