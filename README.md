@@ -6,12 +6,6 @@ The SOM embeds a SAMA7G5 Series SiP microprocessor with up to 2-Gbit DDR3L SDRAM
 The SAMA7G54 SOM Series also limits design rules of the main application board, reducing overall PCB complexity and cost. The SAMA7G54 SOM Series is supported by a free Linux® distribution and bare metal C examples. 
 
 For more information about the SAMA7G54 MPU, or the associated SIPs referenced above, please visit the respective product page on Microchip.com:
-* SoC
-  * [SAMA7G54](https://www.microchip.com/en-us/product/SAMA7G54): Released to Production (RTP)
-* SiP
-  * [SAMA7G54D1G](https://www.microchip.com/en-us/product/SAMA7G54D1G): Released to Production (RTP)
-  * [SAMA7G54D2G](https://www.microchip.com/en-us/product/SAMA7G54D2G): Released to Production (RTP)
-  * [SAMA7G54D4G](https://www.microchip.com/en-us/product/SAMA7G54D4G): Released to Production (RTP)
 * SOM
   * SAMA7G54D1GN0 1Gb DDR3L / No Nand: Early Adopter (EA)
   * SAMA7G54D1GN2 1Gb DDR3L / 2Gb Nand: Early Adopter (EA)
