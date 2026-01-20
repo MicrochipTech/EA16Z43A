@@ -10,8 +10,6 @@ The SAMA7G54 SOM Series also limits design rules of the main application board, 
 * SAMA7G54D2GN4 2Gb DDR3L / 4Gb Nand: Early Adopter (EA)
 * SAMA7G54D4GN8 4Gb DDR3L / 8Gb Nand: Early Adopter (EA)
  
-<p align="center"><img src="SAMA7G54-SOM.jpg" /></p>
-
 ## EA16Z43A - SAMA7G54 SOM EA Bundle
 The EA16Z43A is a bundle of 3 pre-production Microchip SAMA7G54 System-On-Module products.  
 These are small double-sided MPU SOMs based on a System-In-Package (SIP) Arm® Cortex®-A7 CPU-based embedded microprocessor with 2-Gbit DDR3L SDRAM integrated running up to 1 GHz.
@@ -32,3 +30,5 @@ Work Around: Solder the System-On-Module on the mother board manually.
   * [System-On-Module (SOM) Pick and Place Guidelines](https://ww1.microchip.com/downloads/aemDocuments/documents/MPU32/ApplicationNotes/ApplicationNotes/System-On-Module-SOM-Pick-and-Place-Guidelines-DS00004878.pdf)
 * Tools
   * [SAM-BA Programming Tool](https://github.com/atmelcorp/sam-ba/releases)
+
+<p align="center"><img src="SAMA7G54-SOM.jpg" /></p>
