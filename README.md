@@ -32,4 +32,4 @@ Work Around: Solder the System-On-Module on the mother board manually.
   * [System-On-Module (SOM) Assembly and Storage Guidelines](https://ww1.microchip.com/downloads/aemDocuments/documents/MPU32/ApplicationNotes/ApplicationNotes/System-On-Module-SOM-Assembly-and-Storage-Guidelines-DS00005249.pdf)
   * [System-On-Module (SOM) Pick and Place Guidelines](https://ww1.microchip.com/downloads/aemDocuments/documents/MPU32/ApplicationNotes/ApplicationNotes/System-On-Module-SOM-Pick-and-Place-Guidelines-DS00004878.pdf)
 * Tools
-  * [SAM-BA Programming Tool](https://github.com/atmelcorp/sam-ba/releases/tag/v3.9](https://github.com/atmelcorp/sam-ba/releases)
+  * [SAM-BA Programming Tool](https://github.com/atmelcorp/sam-ba/releases)
