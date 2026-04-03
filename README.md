@@ -5,6 +5,8 @@ The SAMA7G54 SOM Series is built on a common set of proven Microchip components 
 The SOM embeds a SAMA7G5 Series SiP microprocessor with up to 4-Gbit DDR3L SDRAM, up to 4-Gbit NAND Flash memory, a 64-Mbit serial Quad I/O Flash memory and a dedicated Power Management Unit.
 The SAMA7G54 SOM Series also limits design rules of the main application board, reducing overall PCB complexity and cost. The SAMA7G54 SOM Series is supported by a free Linux® distribution and bare metal C examples. 
 
+<p align="center"><img src="SAMA7G54-SOM.jpg" /></p>
+
 * SAMA7G54D2GN4 2Gb DDR3L / 4Gb Nand: Early Adopter (EA)
  
 ## EA16Z43A - SAMA7G54 SOM EA Bundle
@@ -28,4 +30,3 @@ Work Around: Solder the System-On-Module on the mother board manually.
 * Tools
   * [SAM-BA Programming Tool](https://github.com/atmelcorp/sam-ba/releases)
 
-<p align="center"><img src="SAMA7G54-SOM.jpg" /></p>
