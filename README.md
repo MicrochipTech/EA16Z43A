@@ -13,10 +13,10 @@ These are small double-sided MPU SOMs based on a System-In-Package (SIP) Arm® C
 
 Order in Microchip Direct: https://www.microchipdirect.com/dev-tools/EA16Z43A 
 
-## Assembly Limitations
-It is not recommended to use industrial automated reflow process with oven to solder the product on the mother board, as the process might impact the System-On-Module reliability.
-
-Work Around: Solder the System-On-Module on the mother board manually.
+## Hardware requirements
+  * To prevent component warping at elevated temperatures, **one of the following two soldering methods must be used** for the System-on-Module (SOM):
+    * Manual soldering, **or**
+    * A low-temperature reflow profile, as specified in the [System-on-Module (SOM) Assembly and Storage Guidelines](https://ww1.microchip.com/downloads/aemDocuments/documents/MPU32/ApplicationNotes/ApplicationNotes/System-On-Module-SOM-Assembly-and-Storage-Guidelines-DS00005249.pdf) application note.
 
 ## Collaterals
 * Hardware
